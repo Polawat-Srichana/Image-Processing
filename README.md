@@ -10,6 +10,6 @@ therefore this report shows the results of each
 model and the conclusions obtained.
 ![](https://github.com/polawatsri099/Image-Processing/blob/main/MNIST.png)
 # Pytorch # RestNet #AlexNet #VGG16
-
+![](https://github.com/polawatsri099/Image-Processing/blob/main/RESULT_EXAMPLE.png)
 # Data Mining
 A data mining project to clean up missing value, one unique value, imbanlance data, then predict data with various classifiers such as KNN and parameterization with fine tuning.

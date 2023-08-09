@@ -9,3 +9,6 @@ requires good analysis and conclusions, and
 therefore this report shows the results of each
 model and the conclusions obtained.
 # Pytorch # RestNet #AlexNet #VGG16
+
+# Data Mining
+

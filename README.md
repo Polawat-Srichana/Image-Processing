@@ -11,4 +11,4 @@ model and the conclusions obtained.
 # Pytorch # RestNet #AlexNet #VGG16
 
 # Data Mining
-
+A data mining project to clean up missing value, one unique value, imbanlance data, then predict data with various classifiers such as KNN and parameterization with fine tuning.

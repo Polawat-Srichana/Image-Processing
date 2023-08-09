@@ -8,6 +8,7 @@ different architecture after the task is done, it
 requires good analysis and conclusions, and
 therefore this report shows the results of each
 model and the conclusions obtained.
+![](https://github.com/polawatsri099/Image-Processing/blob/main/MNIST.png)
 # Pytorch # RestNet #AlexNet #VGG16
 
 # Data Mining
